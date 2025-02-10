@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rajdhani&pause=1000&color=0050F7&center=true&width=650&lines=Hello%2C+I'm+Narya+,+안녕하세요+나르야+입니다+こんにちは、+私はナ+リヤです)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rajdhani&pause=1000&color=0050F7&center=true&width=650&lines=Hello%2C+I'm+Narya+/+안녕하세요+나르야+입니다+/+こんにちは、+私はナ+リヤです)](https://git.io/typing-svg)
 <picture>
   <source
     srcset="./ressources/lucy3.gif"
